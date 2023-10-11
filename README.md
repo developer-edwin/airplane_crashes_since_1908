@@ -50,6 +50,10 @@ Se realizarán análisis en profundidad utilizando los datos y visualizaciones d
 
 ## Indicadores Clave de Desempeño (KPIs)
 
-Se medirá el KPI principal, que busca evaluar la disminución de un 10% en la tasa de fatalidad de la tripulación en los últimos 10 años en comparación con la década anterior. Además, se propondrá, medirá y graficará un segundo KPI relevante para la temática.
+### KPI 1
+La disminución de un 10% en la tasa de fatalidad de la tripulación en los últimos 10 años, en comparación con la década anterior, tendrá un impacto significativo en la seguridad de la industria de la aviación.
+
+### KPI 2
+Existe una relación significativa entre las diferentes categorías de accidentes aéreos que puede ayudar a determinar una disminución de accidentes en la última década en comparación con la década anterior.
 
 **Este proyecto busca contribuir significativamente a la seguridad en la aviación al proporcionar información valiosa y análisis detallados que puedan guiar a la OACI y otras partes interesadas en la toma de decisiones informadas para prevenir accidentes aéreos en el futuro.**
